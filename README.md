@@ -27,6 +27,23 @@ flutter create hello_world
 flutter run
 ```
 
+実行結果
+
+```bash
+This app is linked to the debug service: ws://127.0.0.1:49889/xsF_LtBzXmQ=/ws
+Debug service listening on ws://127.0.0.1:49889/xsF_LtBzXmQ=/ws
+
+💪 Running with sound null safety 💪
+
+🔥  To hot restart changes while running, press "r" or "R".
+For a more detailed help message, press "h". To quit, press "q".
+
+An Observatory debugger and profiler on Chrome is available at: http://127.0.0.1:49889/xsF_LtBzXmQ=
+Flutter Web Bootstrap: Programmatic
+The Flutter DevTools debugger and profiler on Chrome is available at: http://127.0.0.1:9100?uri=http://127.0.0.1:49889/xsF_LtBzXmQ=
+Application finished.
+```
+
 ポート番号を指定して起動する場合
 
 ```bash
